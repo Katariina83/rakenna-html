@@ -1,0 +1,32 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    margin: 1rem;
+}
+
+header {
+    border: dotted lightgrey;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+#kuvanpaikka {
+    display: flex;
+    flex: row;
+    padding: 1rem;
+    border: dotted lightgrey;
+}
+
+img {
+    max-width: 100%;
+}
+footer {
+    border: dotted lightgrey;
+    padding: 1rem;
+}
